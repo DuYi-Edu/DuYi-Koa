@@ -6,7 +6,7 @@
 
 ```shell
 git clone https://github.com/DuYi-Edu/DuYi-Koa
-cd DuYi-Node
+cd DuYi-Koa
 ```
 
 2. 获取所有远程分支并映射到本地
