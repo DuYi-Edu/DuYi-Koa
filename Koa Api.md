@@ -8,9 +8,9 @@
 const Koa = require("koa");
 const app = new Koa();
 const http = require("http");
-http.createServer(app.callback());
+const server = http.createServer(app.callback());
 
-http.listen(port, callback);
+server.listen(port, callback);
 ```
 
 
