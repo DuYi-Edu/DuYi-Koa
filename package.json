@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@koa/router": "^9.0.1",
+    "http-proxy-middleware": "^1.0.4",
     "koa": "^2.12.1",
+    "koa-connect": "^2.0.1",
     "mime": "^2.4.6"
   },
   "devDependencies": {
